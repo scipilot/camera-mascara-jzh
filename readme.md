@@ -4,11 +4,11 @@ See the other two related repos:
 - https://github.com/scipilot/camera-mascara-vue-pocketbase
 - https://github.com/scipilot/camera-mascara
 
-![ACD](ACD-top.jpg)
+![ACD](ACD.jpg)
 
 ![PCB](PCB-top.jpg)
 
-![schematic](schematic.jpg)
+![schematic](Schematic.jpg)
 
 ## How to use
 
